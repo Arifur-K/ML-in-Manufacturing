@@ -1,0 +1,8 @@
+Thickness,Cutting,Deburring,Quality
+1,Punch,No,Good
+1.5,Laser,No,Good
+2,Punch,No,Bad
+2.5,Punch,Yes,Good
+3,Laser,No,Bad
+3.5,Laser,Yes,Good
+4,Laser,No,Bad
