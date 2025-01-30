@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 
 #Step-1: Import data set
-df=pd.read_csv("C:\\Users\\marks\\OneDrive\\Desktop\\Admission\\Website Projects\\ML\\DT_IP.csv")
+df=pd.read_csv("DT_IP.csv")
 
 print(df)
 
